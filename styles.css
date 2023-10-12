@@ -1,0 +1,40 @@
+.banner
+{background-color: royalblue;} 
+
+#caption{
+background-color:cornflowerblue;
+}
+
+#caption2{
+background-color:cornflowerblue;
+}
+
+th:nth-child(1), td:nth-child(1){
+  background-color: skyblue;
+  font-family: "Lucida Console", Courier, monospace;
+}
+
+th:nth-child(2), td:nth-child(2){
+  font-style: italic;
+}
+
+th:nth-child(3), td:nth-child(3){
+  color:blue;
+}
+
+th:nth-child(4), td:nth-child(4){
+font-weight: 700;
+}
+
+table {
+  width:700px;
+}
+
+body {
+  background-color: beige;
+}
+
+td,th {
+  text-align: center;
+  border: 3px solid darkblue
+}
